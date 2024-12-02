@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **collo.c.heg@gmail.com**
 
-- ⚡ Fun fact **Started coding when I was 10! I wrote my first program to solve my homework problems.😂😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/njvgushh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="njvgushh._" height="30" width="40" /></a>
