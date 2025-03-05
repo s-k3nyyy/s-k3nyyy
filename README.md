@@ -70,6 +70,7 @@
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/pinia.svg" alt="pinia" width="40" height="40"/>
   </a>
+  <a href="https://wakatime.com/@b9d00a59-6ecb-42d2-9b7c-65252b24076c"><img src="https://wakatime.com/badge/user/b9d00a59-6ecb-42d2-9b7c-65252b24076c.svg" alt="Total time coded since Jan 8 2025" /></a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://nuxtjs.org/logos/nuxt-icon.svg" alt="nuxt" width="40" height="40"/>
   </a>
