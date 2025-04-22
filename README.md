@@ -63,7 +63,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <!-- New Icons: Vue, Pinia, Nuxt -->
+  <!-- New Iconhttps://github-readme-stats.vercel.app/api?username=s-k3nyyy&theme=vue-dark&show_icons=true&hide_border=true&count_private=trues: Vue, Pinia, Nuxt -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
   </a>
@@ -80,6 +80,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-k3nyyy&show_icons=true&locale=en&layout=compact" alt="s-k3nyyy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-k3nyyy&show_icons=true&locale=en" alt="s-k3nyyy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-k3nyyy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="s-k3nyyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-k3nyyy&" alt="s-k3nyyy" /></p>
